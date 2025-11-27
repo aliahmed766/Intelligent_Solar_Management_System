@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32778004037",
+    "project_id": "solar-calculation-app-11527",
+    "storage_bucket": "solar-calculation-app-11527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32778004037:android:ed0d530222d2bfa1dfe52c",
+        "android_client_info": {
+          "package_name": "com.example.solar_calculation_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtgXBTXmjToL0VgT7GcQWEY8zMh0HFOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
